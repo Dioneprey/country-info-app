@@ -33,7 +33,7 @@ Start the project:
 npm run start:dev 
 ```
 
-### React
+### Next.js
 
 Install dependencies:
 ```
