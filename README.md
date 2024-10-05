@@ -8,7 +8,7 @@
 
 ### Nest.js
 - Nest.js
-- Redis
+- Redis ( cache )
 - SOLID
 
 
